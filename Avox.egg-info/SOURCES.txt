@@ -1,0 +1,8 @@
+License.txt
+README.md
+setup.py
+Avox.egg-info/PKG-INFO
+Avox.egg-info/SOURCES.txt
+Avox.egg-info/dependency_links.txt
+Avox.egg-info/requires.txt
+Avox.egg-info/top_level.txt

@@ -1,0 +1,14 @@
+Metadata-Version: 2.4
+Name: Avox
+Version: 1.0.0
+Summary: A simple Python module for converting speech to text.
+Author: Aditya Gotekar
+Requires-Python: >=3.8
+License-File: License.txt
+Requires-Dist: speechrecognition
+Requires-Dist: pyaudio
+Dynamic: author
+Dynamic: license-file
+Dynamic: requires-dist
+Dynamic: requires-python
+Dynamic: summary
